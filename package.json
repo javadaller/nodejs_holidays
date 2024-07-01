@@ -1,0 +1,22 @@
+{
+  "name": "holidays",
+  "version": "1.0.0",
+  "description": "tool to get the holidays of the current country",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/javadaller/nodejs_holidays.git"
+  },
+  "keywords": [
+    "holidays"
+  ],
+  "author": "arnaud",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/javadaller/nodejs_holidays/issues"
+  },
+  "homepage": "https://github.com/javadaller/nodejs_holidays#readme"
+}
