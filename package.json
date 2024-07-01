@@ -1,9 +1,9 @@
 {
-  "name": "holidates",
-  "version": "1.0.0",
+  "name": "holidates_arnaud",
+  "version": "1.0.2",
   "description": "tool to get the holidays of the current country",
   "main": "index.js",
-  "bin": "bin/index.js",
+  "bin": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
